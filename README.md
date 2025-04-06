@@ -1,6 +1,6 @@
-## Oii! Sou o José Victor
+## Oii! Sou o José Victor!
 
-- 👨🏽‍💻 Hoje em dia trabalho com Suporte de TI 
+- 👨🏽‍💻 Esotu em busca de uma vaga como Engenheiro de Software
 - 🤯 Fascinado em resolver problemas complexos
 - 🤩 Apaixonado pela área de dados
 - 🧑🏽‍🔬 Futuro Engenheiro de Dados
